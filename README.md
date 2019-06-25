@@ -192,3 +192,5 @@
     startActivityForResult(
        CustomActivity.getStartIntent(MainActivity.this, files, R.color.colorPrimaryDark), 1005);
 ```
+### 写在最后
+    该项目原文来自：https://github.com/sychaos/FilePicker ，如有侵权请及时联系我 邮箱：17602153700@163.com 或者直接tel 17602153700
